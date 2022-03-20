@@ -16,3 +16,9 @@ Le projet sera réalisé en 4 étapes. Chaque étape doit être validée avant d
 2.	Écriture des requêtes. 
 3.	Choisir comme client un outil présentant des IHM graphiques
 4.	Implémenter la réplication de la base de données
+
+## Technologies déployées :
+Dans ce qui suit, je vais présenter mon choix pour les serveurs de la base de données, ainsi que mon choix en termes d’outils de développement, permettant la réalisation de la solution informatique.
+* Eclipse IDE (JEE)
+* Serveur Tomcat
+*	Mongodb
